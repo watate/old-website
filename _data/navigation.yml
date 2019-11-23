@@ -1,9 +1,13 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  #- title: "Quick-Start Guide"
+  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  #- title: "Resume"
+  #  url: 
+  - title: "About"
+    url: /about/
+  - title: "Resume"
+    url: https://github.com/watate/watate.github.io/blob/master/assets/resume/Walter_Resume.pdf
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"

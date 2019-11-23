@@ -1,0 +1,230 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Deedy - One Page Two Column Resume
+% LaTeX Template
+% Version 1.2 (16/9/2014)
+%
+% Original author:
+% Debarghya Das (http://debarghyadas.com)
+%
+% Original repository:
+% https://github.com/deedydas/Deedy-Resume
+%
+% IMPORTANT: THIS TEMPLATE NEEDS TO BE COMPILED WITH XeLaTeX
+%
+% This template uses several fonts not included with Windows/Linux by
+% default. If you get compilation errors saying a font is missing, find the line
+% on which the font is used and either change it to a font included with your
+% operating system or comment the line out to use the default font.
+% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% 
+% TODO:
+% 1. Integrate biber/bibtex for article citation under publications.
+% 2. Figure out a smoother way for the document to flow onto the next page.
+% 3. Add styling information for a "Projects/Hacks" section.
+% 4. Add location/address information
+% 5. Merge OpenFont and MacFonts as a single sty with options.
+% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% CHANGELOG:
+% v1.1:
+% 1. Fixed several compilation bugs with \renewcommand
+% 2. Got Open-source fonts (Windows/Linux support)
+% 3. Added Last Updated
+% 4. Move Title styling into .sty
+% 5. Commented .sty file.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% Known Issues:
+% 1. Overflows onto second page if any column's contents are more than the
+% vertical limit
+% 2. Hacky space on the first bullet point on the second column.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\documentclass[]{deedy-resume-openfont}
+\usepackage{fancyhdr}
+ 
+\pagestyle{fancy}
+\fancyhf{}
+ 
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     LAST UPDATED DATE
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\lastupdated
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     TITLE NAME
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\namesection{Walter}{TAY}{Ann Lee}{ \urlstyle{same}\
+\href{mailto:waltertay@u.nus.edu}{waltertay@u.nus.edu} | +65 9868 6218 
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     COLUMN ONE
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{minipage}[t]{0.33\textwidth} 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EDUCATION
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Education} 
+
+\subsection{National University of}
+\subsection{Singapore (NUS)}
+\descript{BEng in Mechanical Engineering}
+\descript{University Scholars Programme}
+\location{Cumulative Average Point: 4.35 / 5.00}
+\location{Expected Graduation: July 2020}
+\sectionsep
+
+\subsection{Bilkent University}
+\descript{Student Exchange Programme}
+\location{Jan. 2019 - May 2019 | Ankara, Turkey}
+\sectionsep
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     AWARDS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Awards} 
+2019 USP Senior Honour Roll \\
+2018 USP Honour Roll \\
+2016 ASEAN Undergraduate Scholarship \\
+2015 Top Scorer of National Chemistry Quiz \\
+2015 Gold Medal for Kangaroo Math Competition Malaysia \\
+2015 Top 95 in National Mathematics Olympiad \\
+\sectionsep
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     COURSEWORK
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Coursework}
+\subsection{Engineering}
+Deep Reinforcement Learning \\
+Finite Elements \\
+Mechatronic Systems \\
+Feedback Control Systems \\
+Materials for Engineers \\
+Manufacturing Processes \\
+Project Management (Microsoft Project) \\
+
+\sectionsep
+
+\subsection{Scholars Programme}
+Quantum Computation \\
+Language, Cognition, and Culture \\
+Mathematics and Reality \\
+Brain and Behaviour \\
+Cultures, Civilizations, and Ideas \\
+War and Democracy \\
+Issues In and Around Justice \\
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     SKILLS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Skills}
+\subsection{Programming}
+Python \textbullet{} TensorFlow \textbullet{} Arduino \textbullet{} MATLAB \textbullet{} fastai \textbullet{} C \textbullet{} Excel VBA \\
+\sectionsep
+
+\subsection{Languages}
+English (Fluent) \textbullet{} Malay (Intermediate) \textbullet{} Chinese (Intermediate)\\
+\sectionsep
+
+\subsection{Interests}
+Meeting new people \textbullet{} weightlifting \textbullet{} bartending \textbullet{} reading \textbullet{} video games\\
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     COLUMN TWO
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\end{minipage} 
+\hfill
+\begin{minipage}[t]{0.65\textwidth} 
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     PROJECTS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Projects}
+\runsubsection{Deep Reinforcement Learning for Mapless Navigation}
+\descript{| Final Year Project}
+\location{Aug 2019 – Current | Singapore}
+Trained neural networks for mapless navigation in a simulation and transferred the networks to a real robot (TurtleBot2) for testing under the supervision of \textbf{\href{https://www.eng.nus.edu.sg/me/staff/zhang-yunfeng/}{Dr. Zhang Yunfeng}} . Tools and libraries used include Tensorflow, Gazebo, ROS Stage, OpenAI Gym, and OpenAI SpinningUp.
+\sectionsep
+
+\runsubsection{Automated Mobile Gangway}
+\descript{| PSA Marine Project}
+\location{Aug 2019 – December 2019 | Singapore}
+Designed, constructed, and troubleshooted a compact and reliable electrical and software system for an \textbf{\href{https://github.com/watate/Automated-Mobile-Gangway}{Automated Mobile Gangway}} under the supervision of \textbf{\href{https://www.eng.nus.edu.sg/me/staff/chen-chao-yu-peter/}{Dr. Peter Chen}}.
+\sectionsep
+
+\runsubsection{Finite Element Package Design}
+\descript{| Group Project}
+\location{Jan 2019 – May 2019 | Ankara, Turkey}
+Designed a \textbf{\href{https://github.com/watate/FEM}{mini-FE package}} in MATLAB to study the displacement, strain, and stress distribution for a two-dimensional rectangular domain with a circular void in the middle under the supervision of \textbf{\href{https://www.researchgate.net/profile/Ali_Javili}{Dr. Ali Javili}}.
+\sectionsep
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EXPERIENCE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Experience}
+\runsubsection{Robert Bosch SEA Pte Ltd}
+\descript{| Corporate Research Intern }
+\location{July 2018 - Dec 2018 | Singapore}
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightemize}
+\item Automated the analysis of IoT testbench experiment data, saving 5 hours of work time per day
+\item Developed hardware for evaluating commercially available sensors (i.e. pressure/ultrasonic/TVOC/TOF sensors) using Arduino
+\item Conducted experiments to study sensor output from filters at different contamination levels and recommended the most promising sensing principle under the supervision of \textbf{\href{https://www.eng.nus.edu.sg/mse/staff/soon-hwee-ping/}{Dr. Soon Hwee Ping}}.
+\end{tightemize}
+\sectionsep
+
+\runsubsection{University Scholars Programme}
+\descript{| Student}
+\location{Aug 2016 – Current | Singapore}
+\begin{tightemize}
+\item Implemented Grover’s (1996) Quantum Search Algorithm using IBM’s quantum computer
+\item Conducted statistical testing of the Democratic Peace Theory with a logistic regression model of war data
+\item Collected data to study the relationship between linguistic relativity and working memory perception
+\item Dissected a brain and explored a physiological approach to the study of human consciousness.
+\end{tightemize}
+\sectionsep
+
+\runsubsection{Cultural Activities Club}
+\descript{| Social and Welfare Director }
+\location{Aug 2017 – Aug 2018 | Singapore}
+\begin{tightemize}
+\item Directed internal projects within the Cultural Activities Club (CAC) such as CAC’s Appreciation Night 2018 and CAC’s Annual Retreat leading to greater bonding between CAC’s 12 Sub-Clubs.
+\item Performer and breakdancer of CAC+US 2018/2017 (NUS CAC's largest annual music and dance concert), Infusion 2018, and Ascendance 2017
+\item Emcee for 9 major NUS events: NUSSU Student Life Fair 2017, USP Exchange Student Events 2017/2016, CAC Appreciation Night 2017/2018, CAC Annual Retreat 2016/2017, MSL Appreciation Night 2016/2017.
+\end{tightemize}
+\sectionsep
+
+
+\end{minipage} 
+\end{document}  \documentclass[]{article}
