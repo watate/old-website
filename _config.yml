@@ -20,7 +20,7 @@ title                    : #"Walter Tay Ann Lee"
 title_separator          : #"-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Walter Tay Ann Lee"
-description              : "A personal site to house my resume and projects"
+description              : "Walter's Portfolio"
 url                      : "https://watate.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "watate/watate.github.io"
@@ -109,8 +109,8 @@ analytics:
 author:
   name             : "Walter Tay Ann Lee"
   avatar           : "/assets/images/profile.jpg"
-  bio              : "4th-year Mechanical Engineering and USP student at NUS"
-  location         : "Singapore"
+  bio              : "BEng in Mechanical Engineering\nUniversity Scholars Programme\nASEAN Scholar"
+  location         : "National University of Singapore"
   email            : "waltertay@u.nus.edu"
   links:
     - label: "Email"
@@ -128,19 +128,19 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/watate/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://www.instagram.com/watate/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/watate/"
 
 # Site Footer
 footer:
   links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/watate/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/w.tay.al"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/watate/"
@@ -152,7 +152,10 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/watate/"
+      #url: "https://www.instagram.com/watate/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      #url: "https://www.facebook.com/w.tay.al"
 
 
 # Reading Files
