@@ -1,7 +1,7 @@
 ---
 layout: home
 author_profile: true
-title: Hi
+title: Hi, I'm Walter
 ---
 
 I'm a fourth-year mechanical engineering major with experience in **deep reinforcement learning**, **automation**, and **IoT** projects. 
