@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes@4.17.2"
-minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "mint" #"contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Walter Tay Ann Lee"
   avatar           : "/assets/images/profile.jpg"
-  bio              : "BEng in Mechanical Engineering\nUniversity Scholars Programme\nASEAN Scholar"
+  bio              : "BEng in Mechanical Engineering,\nUniversity Scholars Programme,\nASEAN Scholar."
   location         : "National University of Singapore"
   email            : "waltertay@u.nus.edu"
   links:
