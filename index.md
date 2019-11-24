@@ -10,9 +10,9 @@ I'm currently looking at mechatronics, robotics, and manufacturing automation ro
 
 My resume: <a href="/assets/resume/Walter_Resume.pdf" target="_blank">View</a> [Download](/assets/resume/Walter_Resume.pdf)
 
-
 # Projects
 ## Automated Mobile Gangway (AMG)
 ![AMG Gif](/assets/images/amg.gif)
 
 ## Finite Element Package Design
+![FEM Gif](/assets/images/fem.gif)
