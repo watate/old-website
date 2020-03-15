@@ -18,7 +18,7 @@ You can reach me at my <a href="mailto:waltertay@u.nus.edu" target="_blank">emai
 ## Deep Reinforcement Learning for Mapless Navigation (Final Year Project)
 ![FYP Gif](/assets/images/fyp.gif)
 
-## Automated Mobile Gangway Electrical and Software Design
+## Automated Mobile Gangway
 ![AMG Gif](/assets/images/amg.gif)
 - [GitHub Page](https://github.com/watate/Automated-Mobile-Gangway)
 - [Wiring Schematic](https://github.com/watate/Automated-Mobile-Gangway/blob/master/wiring_schematic.pdf)
