@@ -6,7 +6,7 @@ title: Hi, I'm Walter
 
 I'm a Mechanical Engineering senior at the [National University of Singapore (NUS)](http://www.nus.edu.sg/) with experience in **machine learning**, **automation**, and **IoT** projects. 
 
-I'm also an active member of the [University Scholars Programme (USP)](http://www.usp.nus.edu.sg/), an intensive and rigorous multidisciplinary programme designed to enable students to make substantial connections across fields.
+I'm also an active member of the [University Scholars Programme (USP)](http://www.usp.nus.edu.sg/). You can find my papers on sociolinguistics, philosophy, and literature <a href="https://github.com/watate/usp-papers.git" target="_blank">here</a>.
 
 My resume: <a href="/assets/resume/Walter_Resume.pdf" target="_blank">View</a> [Download](/assets/resume/Walter_Resume.pdf "Walter_Resume.pdf")
 
