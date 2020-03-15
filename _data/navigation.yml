@@ -8,6 +8,8 @@ main:
   #  url: /about/
   - title: "Resume"
     url: /assets/resume/Walter_Resume.pdf
+  - title: "Articles"
+    url: /_pages/articles.md
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
