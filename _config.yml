@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : #"Walter Tay Ann Lee"
-title_separator          : #"-"
-subtitle                 : # site tagline that appears below site title in masthead
+title                    : "Walter Tay Ann Lee"
+title_separator          : "-"
+subtitle                 : "Mech Eng Senior at NUS" # site tagline that appears below site title in masthead
 name                     : "Walter Tay Ann Lee"
 description              : "Walter's Portfolio"
 url                      : "https://watate.github.io"
