@@ -10,7 +10,7 @@ I'm also an active member of the [University Scholars Programme (USP)](http://ww
 
 My resume: <a href="/assets/resume/Walter_Resume.pdf" target="_blank">View</a> [Download](/assets/resume/Walter_Resume.pdf "Walter_Resume.pdf")
 
-My public calendar: <a href="https://calendar.google.com/calendar?cid=d2FsdGVyLnNwYWRlc0BnbWFpbC5jb20" target="_blank">View</a>
+My public calendar: <a href="https://calendar.google.com/calendar/embed?src=walter.spades%40gmail.com&ctz=Asia%2FSingapore" target="_blank">View</a>
 
 You can reach me at my <a href="mailto:waltertay@u.nus.edu" target="_blank">email</a>.
 
