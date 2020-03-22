@@ -9,7 +9,7 @@ main:
   - title: "Resume"
     url: /assets/resume/Walter_Resume.pdf
   - title: "Articles"
-    url: /_pages/articles.md
+    url: /articles/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"

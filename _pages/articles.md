@@ -1,3 +1,8 @@
+---
+permalink: /articles/
+title: "Articles"
+---
+
 #Articles
 <a href="http://www.paulgraham.com/essay.html" target="_blank">Age of the Essay</a> (by Paul Graham)
 
