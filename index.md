@@ -4,7 +4,7 @@ author_profile: true
 title: Hi, I'm Walter
 ---
 
-I'm a Mechanical Engineering senior at the [National University of Singapore (NUS)](http://www.nus.edu.sg/) with experience in **machine learning**, **automation**, and **IoT** projects. 
+I'm a Class of 2020 graduate of the [National University of Singapore (NUS)](http://www.nus.edu.sg/).
 
 I'm also an active member of the [University Scholars Programme (USP)](http://www.usp.nus.edu.sg/). You can find my papers on sociolinguistics, philosophy, and literature <a href="https://github.com/watate/usp-papers.git" target="_blank">here</a>.
 
