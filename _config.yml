@@ -109,7 +109,10 @@ analytics:
 author:
   name             : "Walter Tay Ann Lee"
   avatar           : "/assets/images/profile.jpg"
-  bio              : "BEng in Mechanical Engineering,\nUSP Graduate,\nASEAN Scholar."
+  bio              : >
+    BEng in Mechanical Engineering
+    USP Graduate
+    ASEAN Scholar
   location         : "National University of Singapore"
   email            : "waltertay@u.nus.edu"
   links:
