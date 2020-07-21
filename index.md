@@ -8,16 +8,16 @@ I'm a Class of 2020 graduate of the [National University of Singapore (NUS)](htt
 
 I'm also a graduate of the [University Scholars Programme (USP)](http://www.usp.nus.edu.sg/). Feel free to read some of my writings <a href="https://github.com/watate/usp-papers.git" target="_blank">here</a>.
 
-My resume: <a href="/assets/resume/Walter_Resume.pdf" target="_blank">View</a> [Download](/assets/resume/Walter_Resume.pdf "Walter_Resume.pdf")
+My resume: <a href="/assets/resume/Walter_Resume.pdf" target="_blank">View</a> or [Download](/assets/resume/Walter_Resume.pdf "Walter_Resume.pdf")
 
-My e-degree: [Download](/assets/degree/Walter_Degree.opencert "Walter_Degree.opencert") [Validate With Blockchain](https://opencerts.io/)
+My e-degree: [Download](/assets/degree/Walter_Degree.opencert "Walter_Degree.opencert") and [Validate With Blockchain](https://opencerts.io/)
 
 My public calendar: <a href="https://calendar.google.com/calendar/embed?src=walter.spades%40gmail.com&ctz=Asia%2FSingapore" target="_blank">View</a>
 
 You can reach me at my <a href="mailto:waltertay@u.nus.edu" target="_blank">email</a>. 
 
 # Projects
-## Deep Reinforcement Learning for Mapless Navigation (Final Year Project)
+## Deep Reinforcement Learning for Mapless Navigation
 ![FYP Gif](/assets/images/fyp.gif)
 
 ## Automated Mobile Gangway
