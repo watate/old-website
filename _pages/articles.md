@@ -10,6 +10,7 @@ title: ""
 - <a href="https://www.usenix.org/system/files/1401_08-12_mickens.pdf" target="_blank">This World of Ours</a> (by James Mickens)
 - <a href="https://www.whydomath.org/Reading_Room_Material/ian_stewart/yourhalf.html" target="_blank">Your Half's Bigger Than My Half!</a> (by Ian Stewart)
 - <a href="http://augmentingcognition.com/ltm.html" target="_blank">Augmenting Long-term Memory</a> (by Michael Nielsen)
+- <a href="https://library.stanford.edu/research/data-management-services/data-best-practices/best-practices-file-naming" target="_blank">Best practices for file naming</a> (by Stanford Libraries)
 
 # Videos
 - <a href="https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/" target="_blank">How to Write a Great Research Paper</a> (by Simon Peyton Jones)
