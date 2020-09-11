@@ -2,6 +2,8 @@
 gem install bundler jekyll
 bundle install
 
+# Test
+bundle exec jekyll serve
 
 # Posts
 The "posts" folder is where I'm supposed to put my posts but I don't really have any need for posts (at the moment)
