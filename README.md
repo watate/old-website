@@ -2,6 +2,11 @@
 gem install bundler jekyll
 bundle install
 
+# I pushed too early and forgot some files now there's a page error
+See: https://stackoverflow.com/questions/11577147/how-to-fix-http-404-on-github-pages
+git commit --allow-empty -m "Trigger rebuild"
+git push
+
 # Test
 bundle exec jekyll serve
 
