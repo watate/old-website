@@ -11,6 +11,7 @@ title: ""
 - <a href="https://www.whydomath.org/Reading_Room_Material/ian_stewart/yourhalf.html" target="_blank">Your Half's Bigger Than My Half!</a> (by Ian Stewart)
 - <a href="http://augmentingcognition.com/ltm.html" target="_blank">Augmenting Long-term Memory</a> (by Michael Nielsen)
 - <a href="https://library.stanford.edu/research/data-management-services/data-best-practices/best-practices-file-naming" target="_blank">Best practices for file naming</a> (by Stanford Libraries)
+- <a href="https://a16z.com/2020/09/07/on-productivity-scheduling-reading-habits-marc-andreessen/" target="_blank">Productivity, Scheduling, Reading Habits, Work, and More</a> (by Marc Andreessen)
 
 # Videos
 - <a href="https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/" target="_blank">How to Write a Great Research Paper</a> (by Simon Peyton Jones)
