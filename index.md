@@ -31,5 +31,5 @@ You can reach me at my <a href="mailto:waltertay@u.nus.edu" target="_blank">emai
 - [GitHub Page](https://github.com/watate/FEM)
 
 # Previously At
-## Robert Bosch Pte. Ltd. | IoT R&D Intern
+## Robert Bosch Pte. Ltd. | Corporate Research Intern
 ![Bosch Picture](/assets/images/bosch.jpg)

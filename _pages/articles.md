@@ -12,6 +12,7 @@ title: ""
 - <a href="http://augmentingcognition.com/ltm.html" target="_blank">Augmenting Long-term Memory</a> (by Michael Nielsen)
 - <a href="https://library.stanford.edu/research/data-management-services/data-best-practices/best-practices-file-naming" target="_blank">Best practices for file naming</a> (by Stanford Libraries)
 - <a href="https://a16z.com/2020/09/07/on-productivity-scheduling-reading-habits-marc-andreessen/" target="_blank">Productivity, Scheduling, Reading Habits, Work, and More</a> (by Marc Andreessen)
+- <a href="https://guzey.com/advice/" target="_blank">Thoughts on Advice</a> (by Alexey Guzey)
 
 # Videos
 - <a href="https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/" target="_blank">How to Write a Great Research Paper</a> (by Simon Peyton Jones)
@@ -25,3 +26,4 @@ title: ""
 - <a href="https://builtformars.co.uk/" target="_blank">UX Case Studies</a> (by builtformars)
 - <a href="https://londonjazzcollector.wordpress.com/" target="_blank">London Jazz Collector</a> (by LJC)
 - <a href="https://www.tokyojazzjoints.com/" target="_blank">Tokyo Jazz Joints</a> (by Philip Arneill and James Catchpole)
+- <a href="http://furius.ca/beancount/" target="_blank">beancount: Double-Entry Accounting from Text Files</a> (by  Martin Blais)
