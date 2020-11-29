@@ -10,8 +10,6 @@ I'm also a graduate of the [University Scholars Programme (USP)](http://www.usp.
 
 My resume: <a href="/assets/resume/Walter_Resume.pdf" target="_blank">View</a> or [Download](/assets/resume/Walter_Resume.pdf "Walter_Resume.pdf")
 
-My e-degree: [Download](/assets/degree/Walter_Degree.opencert "Walter_Degree.opencert") and [Validate With Blockchain](https://opencerts.io/)
-
 My public calendar: <a href="https://calendar.google.com/calendar/embed?src=walter.spades%40gmail.com&ctz=Asia%2FSingapore" target="_blank">View</a>
 
 You can reach me at my <a href="mailto:waltertay@u.nus.edu" target="_blank">email</a>. 
