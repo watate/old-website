@@ -6,7 +6,7 @@ title: Hi, I'm Walter
 
 I currently lead Product on the [igloohome app](https://play.google.com/store/apps/details?id=com.igloo.home) at [igloocompany](https://www.igloohome.co/) (we make smart locks).
 
-Previously, I studied Mechanical Engineering at the [National University of Singapore (NUS)](http://www.nus.edu.sg/) and pursued a liberal-arts education at the [University Scholars Programme](https://www.usp.nus.edu.sg/).
+Previously, I studied Mechanical Engineering at the [National University of Singapore (NUS)](http://www.nus.edu.sg/) and pursued a liberal arts education at the [University Scholars Programme](https://www.usp.nus.edu.sg/).
 
 My resume: <a href="/assets/resume/Walter_Resume.pdf" target="_blank">View</a> or [Download](/assets/resume/Walter_Resume.pdf "Walter_Resume.pdf")
 
