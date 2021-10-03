@@ -1,12 +1,12 @@
 ---
 layout: home
-author_profile: true
+author_profile: false
 title: Hi, I'm Walter
 ---
 
-I'm a Class of 2020 graduate of the [National University of Singapore (NUS)](http://www.nus.edu.sg/).
+I currently lead Product on the [igloohome app](https://play.google.com/store/apps/details?id=com.igloo.home) at [igloocompany](https://www.igloohome.co/) (we make smart locks).
 
-I'm also a graduate of the [University Scholars Programme (USP)](http://www.usp.nus.edu.sg/). Feel free to read some of my writings <a href="https://github.com/watate/usp-papers.git" target="_blank">here</a>.
+Previously, I studied Mechanical Engineering at the [National University of Singapore (NUS)](http://www.nus.edu.sg/), and also pursued a liberal-arts education at the [University Scholars Programme](https://www.usp.nus.edu.sg/).
 
 My resume: <a href="/assets/resume/Walter_Resume.pdf" target="_blank">View</a> or [Download](/assets/resume/Walter_Resume.pdf "Walter_Resume.pdf")
 
