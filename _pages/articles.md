@@ -22,8 +22,8 @@ title: ""
 - <a href="https://youtu.be/Lk_IKBPkGSg" target="_blank">The Food Lab: Better Home Cooking Through Science</a> (by J. Kenji López-Alt)
 
 # Websites
-- <a href="https://cryptopals.com/" target="_blank">Cryptopals Crypto Challenges</a> (by Ptacek et al.)
-- <a href="https://builtformars.co.uk/" target="_blank">UX Case Studies</a> (by builtformars)
-- <a href="https://londonjazzcollector.wordpress.com/" target="_blank">London Jazz Collector</a> (by LJC)
-- <a href="https://www.tokyojazzjoints.com/" target="_blank">Tokyo Jazz Joints</a> (by Philip Arneill and James Catchpole)
-- <a href="http://furius.ca/beancount/" target="_blank">beancount: Double-Entry Accounting from Text Files</a> (by  Martin Blais)
+- <a href="https://80000hours.org/" target="_blank">80,000 Hours</a> (Nonprofit researching and promoting effective altruism)
+- <a href="https://www.givewell.org/" target="_blank">GiveWell</a> (Research helps direct donations to the most impactful charities)
+- <a href="https://cryptopals.com/" target="_blank">Cryptopals Crypto Challenges by Ptacek et. al.</a> (48 exercises that demonstrate attacks on real-world crypto)
+- <a href="https://builtformars.co.uk/" target="_blank">UX Case Studies by builtformars</a> (Insightful case studies from a UX consultancy)
+- <a href="http://furius.ca/beancount/" target="_blank">beancount by Martin Blais</a> (Double-entry accounting from text files)

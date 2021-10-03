@@ -10,8 +10,8 @@ main:
     url: /assets/resume/Walter_Resume.pdf
   - title: "Resources"
     url: /resources/
-  - title: "Wishlist"
-    url: /wishlist/
+  # - title: "Wishlist"
+  #   url: /wishlist/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

@@ -27,3 +27,4 @@ bundle exec jekyll serve
         - articles.md
         - wishlist.md
         - etc.
+- Check _data to change navigation and UI
