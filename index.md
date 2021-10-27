@@ -12,21 +12,23 @@ My resume: <a href="/assets/resume/Walter_Resume.pdf" target="_blank">View</a> o
 
 My public calendar: <a href="https://calendar.google.com/calendar/embed?src=walter.spades%40gmail.com&ctz=Asia%2FSingapore" target="_blank">View</a>
 
-You can reach me at my <a href="mailto:waltertay@u.nus.edu" target="_blank">email</a>. 
+You can reach me at my <a href="mailto:walter.spades@gmail.com" target="_blank">email</a>. 
 
 # Projects
 ## Deep Reinforcement Learning for Mapless Navigation
 ![FYP Gif](/assets/images/fyp.gif)
+- [Thesis](https://github.com/watate/nusthesis/blob/master/Thesis_Electronic.pdf)
+- [GitHub](https://github.com/watate/FYP)
 
 ## Automated Mobile Gangway
 ![AMG Gif](/assets/images/amg.gif)
-- [GitHub Page](https://github.com/watate/Automated-Mobile-Gangway)
+- [GitHub](https://github.com/watate/Automated-Mobile-Gangway)
 - [Wiring Schematic](https://github.com/watate/Automated-Mobile-Gangway/blob/master/wiring_schematic.pdf)
 - [Control Flow Diagram](https://github.com/watate/Automated-Mobile-Gangway/blob/master/controls_diagram.png)
 
 ## Finite Element Software Design
 ![FEM Gif](/assets/images/fem.gif)
-- [GitHub Page](https://github.com/watate/FEM)
+- [GitHub](https://github.com/watate/FEM)
 
 # Previously At
 ## Robert Bosch Pte. Ltd. | Corporate Research Intern
