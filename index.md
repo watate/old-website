@@ -17,8 +17,8 @@ You can reach me at my <a href="mailto:walter.spades@gmail.com" target="_blank">
 # Projects
 ## Deep Reinforcement Learning for Mapless Navigation
 ![FYP Gif](/assets/images/fyp.gif)
-- [Thesis](https://github.com/watate/nusthesis/blob/master/Thesis_Electronic.pdf)
 - [GitHub](https://github.com/watate/FYP)
+- [Thesis](https://github.com/watate/nusthesis/blob/master/Thesis_Electronic.pdf)
 
 ## Automated Mobile Gangway
 ![AMG Gif](/assets/images/amg.gif)
