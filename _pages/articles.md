@@ -11,7 +11,7 @@ title: ""
 - <a href="https://alexvermeer.com/life-hacking/" target="_blank">Life Hacking</a> (by Alex Vermeer)
 - <a href="https://lynettebye.com/blog/2020/6/26/five-ways-to-prioritize-better" target="_blank">Prioritizing Better</a> (by Lynette Bye)
 - <a href="https://web.archive.org/web/20211010181733/https://cs.stanford.edu/~jsteinhardt/ResearchasaStochasticDecisionProcess.html" target="_blank">Research as a Stochastic Design Process</a> (by Jacob Steinhardt)
-- <a href="https://www.lesswrong.com/posts/PsEppdvgRisz5xAHG/fermi-estimates" target="_blank">Prioritizing Better</a> (by Luke Muehlhauser)
+- <a href="https://www.lesswrong.com/posts/PsEppdvgRisz5xAHG/fermi-estimates" target="_blank">Fermi Estimates</a> (by Luke Muehlhauser)
 
 ## Interests
 - <a href="http://www.paulgraham.com/essay.html" target="_blank">Age of the Essay</a> (by Paul Graham)
