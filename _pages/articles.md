@@ -17,7 +17,8 @@ title: ""
 - <a href="https://philosophy.fas.harvard.edu/files/phildept/files/brief_guide_to_writing_philosophy_paper.pdf" target="_blank">Brief Guide to Writing the Philosophy Paper</a> (by Simon Rippon)
 - <a href="https://www.usenix.org/system/files/1401_08-12_mickens.pdf" target="_blank">This World of Ours</a> (by James Mickens)
 - <a href="https://www.whydomath.org/Reading_Room_Material/ian_stewart/yourhalf.html" target="_blank">Your Half's Bigger Than My Half!</a> (by Ian Stewart)
-- <a href="https://www.newyorker.com/magazine/2020/12/21/what-if-you-could-do-it-all-over" target="_blank">What if you could do it all over?</a> (by Joshua Rothman )
+- <a href="https://www.newyorker.com/magazine/2020/12/21/what-if-you-could-do-it-all-over" target="_blank">What if you could do it all over?</a> (by Joshua Rothman)
+- <a href="https://web.archive.org/web/20211010181733/https://cs.stanford.edu/~jsteinhardt/ResearchasaStochasticDecisionProcess.html" target="_blank">Research as a Stochastic Design Process</a> (by Jacob Steinhardt)
 
 # Videos
 - <a href="https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/" target="_blank">How to Write a Great Research Paper</a> (by Simon Peyton Jones)
