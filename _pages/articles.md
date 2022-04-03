@@ -6,10 +6,10 @@ title: ""
 # Articles
 ## Productivity
 - <a href="http://augmentingcognition.com/ltm.html" target="_blank">Augmenting Long-term Memory</a> (by Michael Nielsen)
-- <a href="https://library.stanford.edu/research/data-management-services/data-best-practices/best-practices-file-naming" target="_blank">Best practices for file naming</a> (by Stanford Libraries)
 - <a href="https://a16z.com/2020/09/07/on-productivity-scheduling-reading-habits-marc-andreessen/" target="_blank">Productivity, Scheduling, Reading Habits, Work, and More</a> (by Marc Andreessen)
 - <a href="https://guzey.com/advice/" target="_blank">Thoughts on Advice</a> (by Alexey Guzey)
 - <a href="https://alexvermeer.com/life-hacking/" target="_blank">Life Hacking</a> (by Alex Vermeer)
+- <a href="https://lynettebye.com/blog/2020/6/26/five-ways-to-prioritize-better" target="_blank">Prioritizing Better</a> (by Lynette Bye)
 
 ## Interests
 - <a href="http://www.paulgraham.com/essay.html" target="_blank">Age of the Essay</a> (by Paul Graham)
