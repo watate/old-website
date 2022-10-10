@@ -3,8 +3,14 @@ permalink: /resources/
 title: ""
 ---
 
-# Articles
-## Productivity
+# Resources
+The following are either:
+1. Ideas I regularly reflect on,  or
+2. Recommendations I have for specific questions around productivity or my interests
+
+Sometimes it's both.
+
+# Productivity
 - <a href="http://augmentingcognition.com/ltm.html" target="_blank">Augmenting Long-term Memory</a> (by Michael Nielsen)
 - <a href="https://a16z.com/2020/09/07/on-productivity-scheduling-reading-habits-marc-andreessen/" target="_blank">Productivity, Scheduling, Reading Habits, Work, and More</a> (by Marc Andreessen)
 - <a href="https://guzey.com/advice/" target="_blank">Thoughts on Advice</a> (by Alexey Guzey)
@@ -13,7 +19,7 @@ title: ""
 - <a href="https://web.archive.org/web/20211010181733/https://cs.stanford.edu/~jsteinhardt/ResearchasaStochasticDecisionProcess.html" target="_blank">Research as a Stochastic Design Process</a> (by Jacob Steinhardt)
 - <a href="https://www.lesswrong.com/posts/PsEppdvgRisz5xAHG/fermi-estimates" target="_blank">Fermi Estimates</a> (by Luke Muehlhauser)
 
-## Interests
+# Interests
 - <a href="http://www.paulgraham.com/essay.html" target="_blank">Age of the Essay</a> (by Paul Graham)
 - <a href="https://vita.had.co.nz/papers/tidy-data.pdf" target="_blank">Tidy Data</a> (by Hadley Wickham)
 - <a href="https://philosophy.fas.harvard.edu/files/phildept/files/brief_guide_to_writing_philosophy_paper.pdf" target="_blank">Brief Guide to Writing the Philosophy Paper</a> (by Simon Rippon)
