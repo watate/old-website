@@ -12,7 +12,7 @@ Sometimes it's both.
 
 # Productivity
 - <a href="http://augmentingcognition.com/ltm.html" target="_blank">Augmenting Long-term Memory</a> (by Michael Nielsen)
-- <a href="https://a16z.com/2020/09/07/on-productivity-scheduling-reading-habits-marc-andreessen/" target="_blank">Productivity, Scheduling, Reading Habits, Work, and More</a> (by Marc Andreessen)
+- <a href="https://web.archive.org/web/20210918232402/https://a16z.com/2020/09/07/on-productivity-scheduling-reading-habits-marc-andreessen/" target="_blank">Productivity, Scheduling, Reading Habits, Work, and More</a> (by Marc Andreessen)
 - <a href="https://guzey.com/advice/" target="_blank">Thoughts on Advice</a> (by Alexey Guzey)
 - <a href="https://alexvermeer.com/life-hacking/" target="_blank">Life Hacking</a> (by Alex Vermeer)
 - <a href="https://lynettebye.com/blog/2020/6/26/five-ways-to-prioritize-better" target="_blank">Prioritizing Better</a> (by Lynette Bye)
