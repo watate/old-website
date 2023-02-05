@@ -7,7 +7,7 @@ main:
   #- title: "About"
   #  url: /about/
   - title: "Resume"
-    url: /assets/resume/WalterTayResume.doc
+    url: /assets/resume/WalterTayResume.pdf
   - title: "Resources"
     url: /resources/
   # - title: "Wishlist"

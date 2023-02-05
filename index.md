@@ -8,7 +8,7 @@ I currently lead Product on the [igloohome app](https://play.google.com/store/ap
 
 Previously, I studied Mechanical Engineering at the [National University of Singapore (NUS)](http://www.nus.edu.sg/) and pursued a liberal arts education at the [University Scholars Programme](https://www.usp.nus.edu.sg/).
 
-My resume: <a href="/assets/resume/WalterTayResume.doc" target="_blank">View</a> or [Download](/assets/resume/WalterTayResume.doc "WalterTayResume.doc")
+My resume: <a href="/assets/resume/WalterTayResume.pdf" target="_blank">View</a> or [Download](/assets/resume/WalterTayResume.doc "WalterTayResume.doc")
 
 My public calendar: <a href="https://calendar.google.com/calendar/embed?src=walter.spades%40gmail.com&ctz=Asia%2FSingapore" target="_blank">View</a>
 
